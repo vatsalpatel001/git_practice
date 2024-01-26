@@ -8,3 +8,5 @@
 - change1 to feture-branch
 
 - change2 to feture-branch
+
+- direct change1 to main
