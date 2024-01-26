@@ -12,3 +12,5 @@
 - change1 to rebase-branch
 
 - change2 to rebase-branch
+
+- direct change1 to main
