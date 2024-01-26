@@ -16,3 +16,5 @@
 - change1 to bug-fix
 
 - change2 to bug-fix
+
+- direct change2 to main
