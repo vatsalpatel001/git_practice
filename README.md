@@ -10,3 +10,5 @@
 - change2 to feture-branch
 
 - direct change1 to main
+
+- change1 to bug-fix
